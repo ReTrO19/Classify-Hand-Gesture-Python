@@ -1,3 +1,4 @@
+[](#read-me-template)
 # Classification of Hand Gesture Using Python
 
 ![Project Image](img/Hand_gestures.jpg)
@@ -6,7 +7,7 @@
 
 ---
 
-### Table of Contents
+## **Table of Contents**
 <!-- You're sections headers will be used to reference location of destination. -->
 
 - [Description](#description)
@@ -39,7 +40,7 @@ Times have changed and so did the customer preferences. Nowadays, more and more 
 
 ---
 
-## How To Use
+## **How To Use**
 
 #### **Main Installation**
 
@@ -55,6 +56,14 @@ Times have changed and so did the customer preferences. Nowadays, more and more 
 ```html
     > RunApp.bat
 ```
+---
+## **Outputs**
+#### ( Model is trained on 2 class Nice and Peace )
+#### **Detected Class: Nice**
+![Nice Class](img/NiceClass.PNG)
+#### **Detected Class: Peace**
+![Nice Class](img/PeaceClass.PNG)
+
 [Back To The Top](#read-me-template)
 
 ---
